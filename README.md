@@ -13,18 +13,18 @@ There are two main sections to this project:
 
 The data sets includes the following initial columns
 >
-Start Time and Date
-End Time and Date
-Start Station ID
-Start Station Name
-Start Station Latitude
-Start Station Longitude
-End Station ID
-End Station Name
-End Station Latitude
-End Station Longitude
-Bike ID
-User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual)
+- Start Time and Date
+- End Time and Date
+- Start Station ID
+- Start Station Name
+- Start Station Latitude
+- Start Station Longitude
+- End Station ID
+- End Station Name
+- End Station Latitude
+- End Station Longitude
+- Bike ID
+- User Type (Subscriber/Customer)
 
 > During the data wrangling process, I accessed the data to gain insights and understand the data,I cleaned the data and make necessary changes, I also add new columns such as duration time, distance travelled in km, days the bike were used by both subcribers and customers. 
 
