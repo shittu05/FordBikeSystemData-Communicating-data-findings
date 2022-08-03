@@ -22,7 +22,7 @@ The data sets includes the following initial columns
 - End Station Latitude
 - End Station Longitude
 - Bike ID
-- User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual)
+- User Type (Subscriber or Customer)
 
 > During the data wrangling process, I accessed the data to gain insights and understand the data,I cleaned the data and make necessary changes, I also add new columns such as duration time, distance travelled in km, days the bike were used by both subcribers and customers. 
 
