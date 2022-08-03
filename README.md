@@ -10,7 +10,8 @@ In the first section, I performed an exploratory data analysis on the dataset c
 ## Dataset
 > This data set includes information on each ride taken in a bike-sharing program that serves the greater San Francisco Bay area.
 The data sets includes the following initial columns
->- Start Time and Date
+>
+- Start Time and Date
 - End Time and Date
 - Start Station ID
 - Start Station Name
