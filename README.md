@@ -36,8 +36,9 @@ The data sets includes the following initial columns
 
 ## Key Insights for Presentation
 
-> Most of the bike users fall between the ages of 20- 40 years,
-> Most of the users of the bike systems are mostly male, conversely, 
-> The females tend to ride for more minutes than the other genders in the dataset. 
-In addition, subscribers use the system heavily on work days (Monday -Friday) whereas customers ride more on weekends, and frequently in the afternoon. Many trips concentrated around 8-9 am and 4-6 pm on work days for subscribers, yet customers tend to use more in the late afternoon around 5 pm Monday to Friday. The efficient/short period of usage for subscribers corresponds to their high concentration on rush hours Monday through Friday, indicating the use is primarily for the work commute. 
+> - Most of the bike users fall between the ages of 20- 40 years,
+- Most of the users of the bike systems are mostly male, conversely, 
+- The females tend to ride for more minutes than the other genders in the dataset. 
+- In addition, subscribers use the system heavily on work days (Monday -Friday) whereas customers ride more on weekends, and frequently in the afternoon. 
+- Many trips concentrated around 8-9 am and 4-6 pm on work days for subscribers, yet customers tend to use more in the late afternoon around 5 pm Monday to Friday. -  - The efficient/short period of usage for subscribers corresponds to their high concentration on rush hours Monday through Friday, indicating the use is primarily for the work commute. 
 
